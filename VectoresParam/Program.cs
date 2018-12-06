@@ -29,9 +29,9 @@ namespace VectoresParam
         }
         public static void imprimir(int[] x)
         {
-            foreach ( int num in x)
+            foreach ( int nume in x)
             {
-                Console.WriteLine("\n Elemento {0}", num);
+                Console.WriteLine("\n Elemento {0}", nume);
 
             }
         }
